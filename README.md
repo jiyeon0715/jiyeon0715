@@ -5,7 +5,6 @@
 </div>
 
 <div align="center">
-  <img alt="ROS" src="https://img.shields.io/badge/ros-304060?style=for-the-badge&logo=ros&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/linux-F7BE81?style=for-the-badge&logo=linux&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
